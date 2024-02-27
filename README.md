@@ -1,3 +1,19 @@
+# Fintech
+
+<img width="955" alt="image" src="https://github.com/Tiago-Sant/fintech/assets/82619418/ad4db77b-44d2-4b20-9739-9bbb4679df7c">
+
+It's an app to review sales.
+
+# Tolls
+
+- React
+- Typescript
+- React router
+- React hooks
+- Custom Hooks
+- Dinamic data
+- Recharts for graphs
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
